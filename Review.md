@@ -13,6 +13,7 @@ Fundamentos de QA e tipos de testes (unitário, integração, sistema, aceitaç�
 
 Planejamento e priorização de testes, métricas e gestão de mudanças.
 
-Automação com Selenium, Cypress, Appium e integração com CI/CD.
+Automação com Selenium, Cypress, Postman, integração com CI/CD e IA na Automação.
 
+Conclusão:
 Monitoramento da qualidade, auditorias, gestão de bugs e observabilidade.
