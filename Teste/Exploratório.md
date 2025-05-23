@@ -1,3 +1,6 @@
+
+![Exploratorio](https://github.com/user-attachments/assets/03150a00-7e19-4c6b-9faf-cf09c00ae93d)
+
 🔍 Teste Exploratório
 
 Sistema: Plataforma de ensino online
